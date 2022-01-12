@@ -34,13 +34,23 @@ hr {
     background-color: var(--primary-color);
     border-radius: 0.5rem;
     color:white;
-    border: 200px;
 }
 
-.secondary-link{
+.secondary-link {
     color: var(--primary-color);
     border-radius: 0.5rem;
-    border: 1px solid var(--primary-color);
-    
+    border: 1.5px solid var(--primary-color);
+    margin-left: 10px;    
+}
 
+
+/** Lists **/
+
+.list-non-bullet {
+    list-style: none;
+}
+
+.list-item-inline {
+    display: inline;
+    padding: orem 0.5rem;
 }
