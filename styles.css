@@ -10,6 +10,7 @@
 
 body{
     font-family: 'Montserrat', sans-serif;
+    margin: 0px
 }
 
 hr {
@@ -113,9 +114,26 @@ hr {
 
 .section h3 {
     text-align: center;
-    padding: 2rem;
 }
 
 .ow {
     background-color: var(--off-white);
+}
+
+/** Footer  **/
+
+.footer {
+    background-color: var(--primary-color);
+    padding: 2rem 0rem;
+    text-align: center;
+    color: white;
+    border-top-right-radius: 1rem;
+}
+
+.footer .link {
+    color: white;
+}
+
+.footer ul {
+    padding-inline-start: 0px;
 }
