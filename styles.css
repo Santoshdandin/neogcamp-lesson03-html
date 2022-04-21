@@ -47,12 +47,12 @@ hr {
     
 }
 
-.secondary-link {
+/* .secondary-link {
     color: var(--primary-color);
     border-radius: 0.5rem;
     border: 1.5px solid var(--primary-color);
     margin-left: 10px;    
-}
+} */
 
 
 /** Lists **/
