@@ -44,6 +44,7 @@ hr {
     background-color: var(--primary-color);
     border-radius: 0.5rem;
     color:white;
+    
 }
 
 .secondary-link {
@@ -163,6 +164,4 @@ hr {
     list-style: none;
 }
 
-::marker{
-    list-style: none;
-}
+
